@@ -1,0 +1,12 @@
+C:\Users\Venree\Desktop\Enigma\Enigma\bin\Debug\Enigma.exe.config
+C:\Users\Venree\Desktop\Enigma\Enigma\bin\Debug\Enigma.exe
+C:\Users\Venree\Desktop\Enigma\Enigma\bin\Debug\Enigma.pdb
+C:\Users\Venree\Desktop\Enigma\Enigma\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
+C:\Users\Venree\Desktop\Enigma\Enigma\obj\Debug\Enigma.exe
+C:\Users\Venree\Desktop\Enigma\Enigma\obj\Debug\Enigma.pdb
+C:\Users\Venree\Desktop\Enigma I (1930)\Enigma\bin\Debug\Enigma.exe.config
+C:\Users\Venree\Desktop\Enigma I (1930)\Enigma\obj\Debug\Enigma.exe
+C:\Users\Venree\Desktop\Enigma I (1930)\Enigma\obj\Debug\Enigma.pdb
+C:\Users\Venree\Desktop\Enigma I (1930)\Enigma\bin\Debug\Enigma.exe
+C:\Users\Venree\Desktop\Enigma I (1930)\Enigma\bin\Debug\Enigma.pdb
+C:\Users\Venree\Desktop\Enigma I (1930)\Enigma\obj\Debug\Enigma.csprojResolveAssemblyReference.cache
